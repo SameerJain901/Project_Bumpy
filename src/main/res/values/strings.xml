@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hamar_Bumpy</string>
+    <string name="title_activity_amar__map">Map</string>
+    <string name="slideshow" />
+    <string name="tools" />
+    <string name="gallery" />
+    <string name="camera" />
+    <string name="red_halwa">RED Halwa</string>
+</resources>

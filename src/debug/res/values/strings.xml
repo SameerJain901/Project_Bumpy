@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hamar_Bumpy</string>
+    <string name="title_activity_amar__map">Map</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+</resources>

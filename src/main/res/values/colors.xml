@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="roadHeaven">#FFD3AA</color>
+    <color name="roadEase">#FFAB5E</color>
+    <color name="roadMinor">#FF6A5E</color>
+    <color name="roadMedium">#FF9469</color>
+    <color name="roadHard">#ff663b</color>
+    <color name="roadTough">#FF1300</color>
+    <color name="roadVT">#A00C00</color>
+</resources>
